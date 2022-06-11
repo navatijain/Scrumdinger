@@ -17,6 +17,7 @@
 		932AAFD52854FF9A00920B89 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932AAFD42854FF9A00920B89 /* Theme.swift */; };
 		932AAFD72855022300920B89 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932AAFD62855022300920B89 /* DailyScrum.swift */; };
 		932AAFD9285502E200920B89 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932AAFD8285502E200920B89 /* CardView.swift */; };
+		932AAFDB2855085200920B89 /* TraiilingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932AAFDA2855085200920B89 /* TraiilingIconLabelStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		932AAFD42854FF9A00920B89 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		932AAFD62855022300920B89 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		932AAFD8285502E200920B89 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		932AAFDA2855085200920B89 /* TraiilingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraiilingIconLabelStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				932AAFD32854FF8100920B89 /* Models */,
 				932AAFA92854E7F000920B89 /* ScrumdingerApp.swift */,
 				932AAFD8285502E200920B89 /* CardView.swift */,
+				932AAFDA2855085200920B89 /* TraiilingIconLabelStyle.swift */,
 				932AAFAB2854E7F000920B89 /* MeetingView.swift */,
 				932AAFAD2854E7F200920B89 /* Assets.xcassets */,
 				932AAFAF2854E7F200920B89 /* Preview Content */,
@@ -277,6 +280,7 @@
 				932AAFD72855022300920B89 /* DailyScrum.swift in Sources */,
 				932AAFD52854FF9A00920B89 /* Theme.swift in Sources */,
 				932AAFAC2854E7F000920B89 /* MeetingView.swift in Sources */,
+				932AAFDB2855085200920B89 /* TraiilingIconLabelStyle.swift in Sources */,
 				932AAFAA2854E7F000920B89 /* ScrumdingerApp.swift in Sources */,
 				932AAFD9285502E200920B89 /* CardView.swift in Sources */,
 			);

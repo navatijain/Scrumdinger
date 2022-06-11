@@ -16,6 +16,7 @@
 		932AAFC72854E7F200920B89 /* ScrumdingerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932AAFC62854E7F200920B89 /* ScrumdingerUITestsLaunchTests.swift */; };
 		932AAFD52854FF9A00920B89 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932AAFD42854FF9A00920B89 /* Theme.swift */; };
 		932AAFD72855022300920B89 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932AAFD62855022300920B89 /* DailyScrum.swift */; };
+		932AAFD9285502E200920B89 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932AAFD8285502E200920B89 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		932AAFC62854E7F200920B89 /* ScrumdingerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		932AAFD42854FF9A00920B89 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		932AAFD62855022300920B89 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
+		932AAFD8285502E200920B89 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				932AAFD32854FF8100920B89 /* Models */,
 				932AAFA92854E7F000920B89 /* ScrumdingerApp.swift */,
+				932AAFD8285502E200920B89 /* CardView.swift */,
 				932AAFAB2854E7F000920B89 /* MeetingView.swift */,
 				932AAFAD2854E7F200920B89 /* Assets.xcassets */,
 				932AAFAF2854E7F200920B89 /* Preview Content */,
@@ -275,6 +278,7 @@
 				932AAFD52854FF9A00920B89 /* Theme.swift in Sources */,
 				932AAFAC2854E7F000920B89 /* MeetingView.swift in Sources */,
 				932AAFAA2854E7F000920B89 /* ScrumdingerApp.swift in Sources */,
+				932AAFD9285502E200920B89 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
